@@ -1,2 +1,0 @@
-# poskami
-poskami simple vue 
